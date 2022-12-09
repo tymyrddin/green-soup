@@ -22,10 +22,10 @@ systems, created from a survey of publicly reported attacker activities. MITRE d
 of attack, only those that have been publicly disclosed as actions observed by an advanced persistent threat (APT) as
 defined by larger agencies. There will be some cases, especially in advanced attack scenarios, where
 actions are not included in ATT&CK. For example, for an application-based attack. For those, check out
-[OWASP]({{< relref "owasp" >}})
+OWASP.
 
 The goal of MITRE ATT&CK is to use the information collected and presented in the standard as a basis for
-[threat modelling and analysis](https://tymyrddin.github.io/threat-models/).
+[threat modelling and analysis](green:index).
 
 On the [MITRE ATT&CK website](https://attack.mitre.org/), choose a threat, read the details about the threat, and how
 the threat can be detected and mitigated.
