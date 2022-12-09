@@ -13,4 +13,4 @@ Why, if there is alphabet soup, do we not have punctuation cereal? — Mary Norr
 .. toctree::
    :caption: Links
 
-   Green Team <https://tymyrddin.github.io/green/>
+   Green Team <https://green.tymyrddin.dev/>

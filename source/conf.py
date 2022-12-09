@@ -78,6 +78,6 @@ html_show_copyright = False
 # Intersphinx
 intersphinx_mapping = {
     "green": ("https://tymyrddin.github.io/green/", None),
-    "red-app":("https://tymyrddin.github.io/red-app/", None),
+    "red-app":("https://red.tymyrddin.dev/projects/app/en/latest/", None),
 }
 myst_url_schemes = ["http", "https", ]
