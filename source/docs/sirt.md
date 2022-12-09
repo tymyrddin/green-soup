@@ -1,6 +1,6 @@
 # SIRT
 
-[Incident Response Teams](purple:docs/soc/README.html) focus on resolving incidents such as data breaches and denial-of-service attacks as well as providing alerts and incident handling guidelines.
+[Incident Response Teams](purple:docs/soc/README) focus on resolving incidents such as data breaches and denial-of-service attacks as well as providing alerts and incident handling guidelines.
 
 Alternative names are "Computer emergency readiness team", "Computer security incident response team", or
 "Cyber security incident response team".
