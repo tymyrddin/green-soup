@@ -3,6 +3,8 @@ Alphabet soup
 
 Why, if there is alphabet soup, do we not have punctuation cereal? — Mary Norris
 
+----
+
 .. toctree::
    :glob:
    :maxdepth: 1
@@ -10,7 +12,3 @@ Why, if there is alphabet soup, do we not have punctuation cereal? — Mary Norr
 
    docs/*
 
-.. toctree::
-   :caption: Links
-
-   Green Team <https://green.tymyrddin.dev/>
