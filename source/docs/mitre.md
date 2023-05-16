@@ -25,7 +25,7 @@ actions are not included in ATT&CK. For example, for an application-based attack
 OWASP.
 
 The goal of MITRE ATT&CK is to use the information collected and presented in the standard as a basis for
-[threat modelling and analysis](green:index).
+threat modelling and analysis.
 
 On the [MITRE ATT&CK website](https://attack.mitre.org/), choose a threat, read the details about the threat, and how
 the threat can be detected and mitigated.

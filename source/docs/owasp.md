@@ -108,7 +108,7 @@ determine the extent of a security breach during incident response. This categor
 
 This security flaw enables attackers to invoke requests from a vulnerable web application to another system.
 This category represents the scenario where the security community members are telling OWASP
-[this is important](red-app:docs/techniques/ssrf), even though it’s not illustrated in the data yet.
+this is important, even though it’s not illustrated in the data yet.
 
 ## Other projects
 

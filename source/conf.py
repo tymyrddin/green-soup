@@ -77,10 +77,5 @@ html_show_sphinx = False
 html_show_copyright = False
 
 # Intersphinx
-intersphinx_mapping = {
-    "purple": ("https://purple.tymyrddin.dev/en/latest/", None),
-    "green": ("https://green.tymyrddin.dev/en/latest/", None),
-    "blue": ("https://blue.tymyrddin.dev/en/latest/", None),
-    "red-app":("https://red.tymyrddin.dev/projects/app/en/latest/", None),
-}
+
 myst_url_schemes = ["http", "https", ]
