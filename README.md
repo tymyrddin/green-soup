@@ -1,9 +1,6 @@
 # Alphabet soup
 
-Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
-by [Read the Docs](https://readthedocs.org/).
-
-[![Documentation Status](https://readthedocs.org/projects/green-soup/badge/?version=latest)](https://green.tymyrddin.dev/projects/soup/en/latest/?badge=latest)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ca5d9d1c-247b-44d1-a475-543978ae320d/deploy-status)](https://app.netlify.com/sites/hilarious-panda-7695b6/deploys)
 
 ## Requirements
 
